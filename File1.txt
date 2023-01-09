@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Test
+=======
+TestTest Update
+123
+>>>>>>> second_branch
 Commit test
 
 4656
@@ -6,3 +11,7 @@ Commit test
 875
 65
 Add Line
+<<<<<<< HEAD
+=======
+new branch line
+>>>>>>> second_branch
